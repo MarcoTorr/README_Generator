@@ -1,0 +1,20 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "##Table of contents     1. [Description](#introduction)     2. [Installation] (#installation)     3. [Usage] (#usage)     4. [Contributing] (#contributing)     5. [Tests] (#test)     6. [Questions] (#questions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2",
+    "inquirer-confirm": "^2.0.7",
+    "jest": "^27.1.1",
+    "markdown-it": "^12.2.0",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
